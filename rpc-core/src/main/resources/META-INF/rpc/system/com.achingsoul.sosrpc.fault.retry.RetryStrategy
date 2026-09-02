@@ -1,0 +1,3 @@
+no=com.achingsoul.sosrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.achingsoul.sosrpc.fault.retry.FixedIntervalRetryStrategy
+exponentialBackoff=com.achingsoul.sosrpc.fault.retry.ExponentialBackoffRetryStrategy

@@ -1,0 +1,3 @@
+roundRobin=com.achingsoul.sosrpc.loadbalancer.RoundRobinLoadBalancer
+random=com.achingsoul.sosrpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.achingsoul.sosrpc.loadbalancer.ConsistentHashLoadBalancer

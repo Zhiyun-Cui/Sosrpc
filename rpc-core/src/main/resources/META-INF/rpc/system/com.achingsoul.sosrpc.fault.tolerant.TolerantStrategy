@@ -1,0 +1,4 @@
+failBack=com.achingsoul.sosrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.achingsoul.sosrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.achingsoul.sosrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.achingsoul.sosrpc.fault.tolerant.FailSafeTolerantStrategy

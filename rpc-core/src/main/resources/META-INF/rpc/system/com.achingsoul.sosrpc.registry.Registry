@@ -1,0 +1,2 @@
+etcd=com.achingsoul.sosrpc.registry.EtcdRegistry
+zookeeper=com.achingsoul.sosrpc.registry.ZooKeeperRegistry

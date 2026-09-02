@@ -1,0 +1,4 @@
+hessian=com.achingsoul.sosrpc.serializer.HessianSerializer
+json=com.achingsoul.sosrpc.serializer.JsonSerializer
+kryo=com.achingsoul.sosrpc.serializer.KryoSerializer
+jdk=com.achingsoul.sosrpc.serializer.JdkSerializer
